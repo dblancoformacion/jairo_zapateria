@@ -1,0 +1,49 @@
+/*contenido general*/
+
+.wrapper{
+	height: 800px;
+	width: 900px;
+	margin:0px auto;
+	
+}
+
+.header{
+	line-height: 200px;
+	width: 100%;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+.header>h1{
+	font-size: 75px;
+	font-family: 'Poiret One', cursive;
+	color:#FF0040;
+	width: 100%;
+	text-align: center;
+}
+
+.content{
+	height: 400px;
+	width: 100%;
+	display: inline-block;
+
+}
+
+.content>div{
+	width: 400px;
+	height: 400px;
+	background-color: #D8D8D8;
+	display: inline-block;
+	margin: 0px 20px 0px 20px;
+}
+
+.footer{
+	line-height: 50px;
+	width: 100%;
+	text-align: center;
+}
+
+.footer>p{
+	font-family:'Roboto Mono', monospace;
+	color:#FF0040;
+}
