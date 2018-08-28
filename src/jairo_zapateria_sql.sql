@@ -138,7 +138,7 @@ INSERT secciones (seccion)
   VALUES ('Señora'),('Caballero'),('Niño');
 
 INSERT categoria(categoria)
-  VALUES('Bota'),('Sandalia'),('Mocasin'),('Deportivos y playeras'),('Botin'),('Zapato'),('Alpargatas');
+  VALUES('Bota'),('Sandalia'),('Mocasin'),('Deportivos y playeras'),('Botin'),('Zapato'),('Alpargatas'),('bolso');
 INSERT fabricantes(fabricante)
   VALUES ('Traveris'),('Paula Urban'),('Funny Lola'),('Converse'),('Nike'),('Kissia'),('Tambi'),('Walk & Fly'),('Colour Feet'),
   ('Wonders'),('Panama Jack'),('Vidorreta'),('Tiziana'),('Stephen Allen'),('Riva di Mare'),('Riposella'),('Porronet'),('Imac'),('Pikolinos'),('Gioseppo'),
@@ -216,3 +216,4 @@ INSERT tacones (tacon)
   ('KRM-215','67')
   ;*/
 SELECT * FROM articulos;
+SELECT * FROM fabricantes;

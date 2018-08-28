@@ -14,13 +14,14 @@
 		<h1>Zap-In Shoe Company</h1>
 	</div>
 	<div class="content">
-	<div class="container-fluid">
+	<div>
 
 	</div>
-	<div class="container-fluid">
+	<div>
 
 	</div>
 	</div>
+	
 	<div class="footer">
 		<p>Trabajo realizado por Jairo Setién Peyrac</p>
 	</div>
